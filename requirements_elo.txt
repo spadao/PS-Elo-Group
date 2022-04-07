@@ -64,7 +64,7 @@ nbdime==2.1.0
 nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
 nest-asyncio==1.4.3
 notebook==6.4.10
-numpy==1.19.4
+numpy==1.21.0
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 packaging==20.4
 pandas==1.1.4
